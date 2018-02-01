@@ -1,0 +1,9 @@
+Bill id:-12		Doctor charges:-1312		Treatment charges:-1312		Medicine charges:-1312		Room charges:-1231		other charges:-1321		Tax:-1231		Total Bill:-7719
+Bill id:-1231
+Doctor charges:-123
+Treatment charges:-123
+Medicine charges:-123
+Room charges:-123
+other charges:-123
+Tax:-123
+Total Bill:-738

@@ -1,0 +1,19 @@
+Manjit Singh		23		Male		A		6 higgns cres.		L6Y 6J7		canada		inpatient		6412102003
+jack richer		24		Male		A		12 Street 		L4T 3B4		canada		inpatient		5618112004
+Harpreet		20		Male		AB		15 Happy Street		L6P 0A1		canada		inpatient		6410102007
+Tonny		25		Male		O		78 ghost Street		L6P 0A2		canada		inpatient		4613062011
+Prince		45		Female		B		16 honey street		L6P 0A3		canada		inpatient		6424072012
+Gurpreet Singh		35		Female		A		7 higgns cres.		L6P 0A4		canada		inpatient		6412102003
+john richer		46		Female		B		11 Street 		L6P 0A5		canada		outpatient		5718112004
+Harjeet		19		Male		AB		20Happy Street		L6P 0A5		canada		outpatient		3410102007
+Happy		20		Female		O		88 ghost Street		L6P 0A9		canada		outpatient		2413062011
+Sunny leone		18		Female		B		19 honey street		L6P 0A6		canada		outpatient		3524072012
+Manjit Singh		23		Male		A		6 higgns cres.		L6Y 6J7		canada		inpatient		6412102003
+jack richer		24		Male		A		12 Street 		L4T 3B4		canada		inpatient		5618112004
+Tonny		25		Male		O		78 ghost Street		L6P 0A2		canada		inpatient		4613062011
+Prince		45		Female		B		16 honey street		L6P 0A3		canada		inpatient		6424072012
+Gurpreet Singh		35		Female		A		7 higgns cres.		L6P 0A4		canada		inpatient		6412102003
+john richer		46		Female		B		11 Street 		L6P 0A5		canada		outpatient		5718112004
+Harjeet		19		Male		AB		20Happy Street		L6P 0A5		canada		outpatient		3410102007
+Happy		20		Female		O		88 ghost Street		L6P 0A9		canada		outpatient		2413062011
+Sunny leone		18		Female		B		19 honey street		L6P 0A6		canada		outpatient		3524072012
